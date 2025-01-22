@@ -11,7 +11,7 @@
   {
     "name": "SDU Function App",
     "description": "Function App",
-    "repositoryPath": "https://dev.azure.com/SduLandingZones/Templates/_git/Template-WebApi",
+    "repositoryPath": "https://dev.azure.com/SduLandingZones/Templates/_git/Template-FunctionApp",
     "tags": [
       "bicep",
       "C#"

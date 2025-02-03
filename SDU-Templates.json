@@ -16,6 +16,8 @@
     "tags": [
       "bicep",
       "functionApp",
+      "timerfunctionApp",
+      "httpfunctionApp",
       "C#"
     ]
   }

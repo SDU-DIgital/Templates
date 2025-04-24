@@ -1,7 +1,7 @@
 [
   {
-    "name": "SDU WebAPI",
-    "description": "WebAPI",
+    "name": "SDU WebAPI - Minimal",
+    "description": "Azure Web API template with minimal setup, including Bicep infrastructure deployment",
     "repositoryPath": "https://dev.azure.com/SduLandingZones/Templates/_git/Template-WebApi",
     "tags": [
       "bicep",
@@ -10,8 +10,8 @@
     ]
   },
   {
-    "name": "SDU FunctionApp",
-    "description": "FunctionApp",
+    "name": "SDU FunctionApp - function with timer and http trigger",
+    "description": "Azure Function App template with timer-triggered and HTTP-triggered functions, including Bicep infrastructure deployment",
     "repositoryPath": "https://dev.azure.com/SduLandingZones/Templates/_git/Template-FunctionApp",
     "tags": [
       "bicep",
